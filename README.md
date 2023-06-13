@@ -1,7 +1,7 @@
 # Ekart
 Ecommerce Static Webpages
 
-This is a statics ecommerce website having follwing pages.
+This is a statics Ecommerce Website having follwing pages.
 1) login page
   For User Authentication
 2) Register Page
