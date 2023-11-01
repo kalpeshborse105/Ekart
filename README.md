@@ -22,7 +22,7 @@ This is a simple static website for an e-commerce platform called "Ekart Product
   * css/: CSS files.
   * js/: JavaScript files.
   * images/: Image assets.
-  * 
+ 
 # How to Use
 1. Clone this repository: git clone https://github.com/kalpeshborse105/Ekart.git
 2. Open the project directory: cd Ekart
